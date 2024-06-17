@@ -1,0 +1,34 @@
+{
+  "Species": [
+    {
+      "Name": "Notechomp",
+      "Description": "A very friendly dog like Beat, it makes different instrument noises based on it's mood.",
+      "Height": "0.8m",
+      "ImgSrc": "img/notechomp.png"
+    },
+    {
+      "Name": "Trompatooter",
+      "Description": "A very bird like Beat, keep your distance from this Beat because it's very load trumpet sounds will deafen you.",
+      "Height": "0.5m",
+      "ImgSrc": "img/trompatooter.png"
+    },
+    {
+      "Name": "Metroraf",
+      "Description": "A very long giraffe like beat, it looks a bit scary when you look at it since it doesn't like to move, only the metronome on it's belly moves.",
+      "Height": "3.6m",
+      "ImgSrc": "img/metroraf.png"
+    },
+    {
+      "Name": "Fred",
+      "Description": "Who named him Fred? Why not a more serious name, like Mr.Ping.",
+      "Height": "1.6m",
+      "ImgSrc": "img/fred.png"
+    },
+    {
+      "Name": "Mr.Ping",
+      "Description": "A very gentle gentleman.",
+      "Height": "0.2m",
+      "ImgSrc": "img/mrping.png"
+    }
+  ]
+}
